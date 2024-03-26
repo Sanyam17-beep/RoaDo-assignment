@@ -23,7 +23,7 @@ function Sidebar() {
     return (
         <div className='sidebar'>
             <div className='sidebarContainer'>
-                <img src={logo} className="logo" />
+                <img src={logo} className="sidebarlogo" />
                 <div className='menu'>
                     <div className='menuSection'>
                         <div className="menuTitle">D A S H B O A R D</div>
