@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './style.css';
-import logo from "../../Media/logo.svg";
+import logo from "../../Media/Logo.png";
 import dashboard from "../../Media/dashboard-icon.svg";
 import envelope from "../../Media/envelope.svg";
 import friends from "../../Media/friends.svg";
